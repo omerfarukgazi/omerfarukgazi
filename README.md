@@ -5,7 +5,7 @@ I run e-commerce stores and build software that automates the repetitive parts o
 
 ### What I'm working on
 - **Gazi Vision** – AI-powered ad performance analysis for e-commerce brands (Meta & TikTok Ads), built on the Claude API. Private beta.
-- **Invoice automation** – turns confirmed Shopify cash-on-delivery orders into Turkish e-Archive invoice drafts. Case study coming soon.
+- **[Invoice automation](https://github.com/omerfarukgazi/fatura-robotu-showcase)** – turns confirmed Shopify cash-on-delivery orders into Turkish e-Archive invoice drafts.
 - **42 İstanbul** – Piscine, Nov–Dec 2026.
 
 ### Featured project
